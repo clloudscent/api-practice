@@ -1,0 +1,6 @@
+server:
+  port: 9792
+
+logging:
+  file:
+    name: /Users/mac/logs/api-practice/logfile.log
